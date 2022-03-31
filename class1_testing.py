@@ -10,3 +10,5 @@ print("hello world")
 print(10*2)
 
 print("Match no more")
+
+print(1+1)
